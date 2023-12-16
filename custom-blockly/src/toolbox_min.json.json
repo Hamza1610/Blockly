@@ -1,0 +1,362 @@
+{
+    "contents": [
+        {
+            "kind": "CATEGORY",
+            "contents": [
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "controls_if"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "logic_compare"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "logic_operation"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "logic_negate"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "logic_boolean"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "logic_null",
+                    "disabled": "true"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "logic_ternary"
+                }
+            ],
+            "name": "Logic",
+            "categorystyle": "logic_category"
+        },
+        {
+            "kind": "CATEGORY",
+            "contents": [
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "controls_repeat_ext"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "controls_repeat",
+                    "disabled": "true"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "controls_whileUntil"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "controls_for"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "controls_forEach"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "controls_flow_statements"
+                }
+            ],
+            "name": "Loops",
+            "categorystyle": "loop_category"
+        },
+        {
+            "kind": "CATEGORY",
+            "contents": [
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "math_number",
+                    "gap": "32"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "math_arithmetic"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "math_single"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "math_trig"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "math_constant"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "math_number_property"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "math_round"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "math_on_list"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "math_modulo"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "math_constrain"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "math_random_int"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "math_random_float"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "math_atan2"
+                }
+            ],
+            "name": "Math",
+            "categorystyle": "math_category"
+        },
+        {
+            "kind": "CATEGORY",
+            "contents": [
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "text"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "text_multiline"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "text_join"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "text_append"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "text_length"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "text_isEmpty"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "text_indexOf"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "text_charAt"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "text_getSubstring"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "text_changeCase"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "text_trim"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "text_count"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "text_replace"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "text_reverse"
+                },
+                {
+                    "kind": "LABEL",
+                    "text": "Input/Output:",
+                    "web-class": "ioLabel"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "text_print"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "text_prompt_ext"
+                }
+            ],
+            "name": "Text",
+            "categorystyle": "text_category"
+        },
+        {
+            "kind": "CATEGORY",
+            "contents": [
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "lists_create_with"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "lists_create_with"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "lists_repeat"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "lists_length"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "lists_isEmpty"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "lists_indexOf"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "lists_getIndex"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "lists_setIndex"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "lists_getSublist"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "lists_split"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "lists_sort"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "lists_reverse"
+                }
+            ],
+            "name": "Lists",
+            "categorystyle": "list_category"
+        },
+        {
+            "kind": "CATEGORY",
+            "contents": [
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "colour_picker"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "colour_random"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "colour_rgb"
+                },
+                {
+                    "kind": "BLOCK",
+                    "blockxml": {},
+                    "type": "colour_blend"
+                }
+            ],
+            "name": "Colour",
+            "categorystyle": "colour_category"
+        },
+        {
+            "kind": "SEP"
+        },
+        {
+            "kind": "CATEGORY",
+            "name": "Variables",
+            "categorystyle": "variable_category",
+            "custom": "VARIABLE"
+        },
+        {
+            "kind": "CATEGORY",
+            "name": "Functions",
+            "categorystyle": "procedure_category",
+            "custom": "PROCEDURE"
+        }
+    ],
+    "xmlns": "https://developers.google.com/blockly/xml",
+    "id": "toolbox-categories",
+    "style": "display: none"
+}
